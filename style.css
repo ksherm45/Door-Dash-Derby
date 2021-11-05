@@ -29,7 +29,7 @@
     #restart{
         position: absolute;
         font-size: 40px;
-        top: 52%;
+        top: 68%;
         left: 70%;
         background-color: burlywood;
         font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
@@ -38,5 +38,6 @@
     }
 
     h1{
-
+        font-size: 100px;
+        color: rgb(253, 254, 255)
     }
